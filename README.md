@@ -2,6 +2,10 @@
 
 This repository contains the code to train all custom models used in the paper "Explainability Requires Interactivity," as well as to create all static explanations (heat maps and generative). For our interactive framework, see the [sister repositor](https://github.com/HealthML/StyleGAN2-Hypotheses-Explorer/).
 
+Precomputed generative explanations are located at `static_generative_explanations`.
+
+### Requirements
+
 Install the conda environment via `conda env create -f env.yml` (depending on your system you might need to change some versions, e.g. for `pytorch`, `cudatoolkit` and `pytorch-lightning`).
 
 For some parts you will need the FairFace model, which can be downloaded from the [authors' repo](https://github.com/dchen236/FairFace). You will only need the `res34_fair_align_multi_7_20190809.pt` file.
