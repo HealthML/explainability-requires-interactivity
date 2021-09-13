@@ -1,6 +1,6 @@
-# Header
+# Explainability Requires Interactivity
 
-This repository contains the code to train all custom models used in the paper "Explainability Requires Interactivity," as well as to create all static explanations (heat maps and generative). For the interactive explanations, see the second directory.
+This repository contains the code to train all custom models used in the paper "Explainability Requires Interactivity," as well as to create all static explanations (heat maps and generative). For our interactive framework, see the [sister repositor](https://github.com/HealthML/StyleGAN2-Hypotheses-Explorer/).
 
 Install the conda environment via `conda env create -f env.yml` (depending on your system you might need to change some versions, e.g. for `pytorch`, `cudatoolkit` and `pytorch-lightning`).
 
