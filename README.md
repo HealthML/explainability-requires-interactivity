@@ -1,6 +1,6 @@
 # Explainability Requires Interactivity
 
-This repository contains the code to train all custom models used in the paper "Explainability Requires Interactivity," as well as to create all static explanations (heat maps and generative). For our interactive framework, see the [sister repositor](https://github.com/HealthML/StyleGAN2-Hypotheses-Explorer/).
+This repository contains the code to train all custom models used in the paper [Explainability Requires Interactivity](https://arxiv.org/abs/2109.07869) as well as to create all static explanations (heat maps and generative). For our interactive framework, see the [sister repositor](https://github.com/HealthML/StyleGAN2-Hypotheses-Explorer/).
 
 Precomputed generative explanations are located at `static_generative_explanations`.
 
